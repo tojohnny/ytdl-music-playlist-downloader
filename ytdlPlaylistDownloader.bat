@@ -19,7 +19,7 @@ ECHO 5. Non-Official Artists (English)
 ECHO 6. Non-Official Artists (Chinese)
 ECHO 7. Non-Official Artists (Japanese)
 ECHO 8. Non-Official Artists (Korean)
-ECHO 9. Soundtracks / OST / Mixes / Off-vocals & Instrumentals
+ECHO 9. Soundtracks, OST, Mixes, Off-vocals, and Instrumentals
 ECHO.
 ECHO Which playlist would you like to download?
 set choice=
@@ -76,7 +76,7 @@ youtube-dl --config-location %config% https://www.youtube.com/playlist?list=PLVO
 ECHO.
 :playlistNine
 ECHO.
-ECHO Downloading Soundtracks / OST / Mixes / Off-vocals & Instrumentals...
+ECHO Downloading Soundtracks, OST, Mixes, Off-vocals, and Instrumentals...
 youtube-dl --config-location %config% https://www.youtube.com/playlist?list=PLVODPKIVct1OKVfN86nyQZq6QdKeTOoRa
 ECHO.
 :end
