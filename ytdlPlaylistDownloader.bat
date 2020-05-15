@@ -39,41 +39,51 @@ ECHO.
 ECHO Downloading Official Artists (English)...
 youtube-dl --config-location %config% https://www.youtube.com/playlist?list=PLVODPKIVct1NYnNLC_vC10DypFS5Bnw1Q
 ECHO.
+pause
 :playlistTwo
 ECHO.
 ECHO Downloading Official Artists (Chinese)...
 youtube-dl --config-location %config% https://www.youtube.com/playlist?list=PLVODPKIVct1P8b9IUlzbRNI8HIikkuUe4
 ECHO.
+pause
 :playlistThree
 ECHO.
 ECHO Downloading Official Artists (Japanese)...
 youtube-dl --config-location %config% https://www.youtube.com/playlist?list=PLVODPKIVct1MyQNMoCrczAl2lREwRAmNC
 ECHO.
+pause
 :playlistFour
 ECHO.
 ECHO Downloading Official Artists (Korean)...
 youtube-dl --config-location %config% https://www.youtube.com/playlist?list=PLVODPKIVct1NfSNzrzxT05dfGuMLIiim8
 ECHO.
+pause
 :playlistFive
 ECHO.
 ECHO Downloading Non-Official Artists (English)...
 youtube-dl --config-location %config% https://www.youtube.com/playlist?list=PLVODPKIVct1NJEoD9_AZmncR_6aT9xf1L
 ECHO.
+pause
 :playlistSix
 ECHO.
 ECHO Downloading Non-Official Artists (Chinese)...
 youtube-dl --config-location %config% https://www.youtube.com/playlist?list=PLVODPKIVct1M-HA8I-vQ5e1CMiu-bD-2z
 ECHO.
+pause
 :playlistSeven
 ECHO.
+pause
 ECHO Downloading Non-Official Artists (Japanese)...
 youtube-dl --config-location %config% https://www.youtube.com/playlist?list=PLVODPKIVct1O63g__-6I5WCk0gXcxAZ0O
 ECHO.
+pause
 :playlistEight
 ECHO.
+pause
 ECHO Downloading Non-Official Artists (Korean)...
 youtube-dl --config-location %config% https://www.youtube.com/playlist?list=PLVODPKIVct1M9dme_crapjyGGAa7RkjsQ
 ECHO.
+pause
 :playlistNine
 ECHO.
 ECHO Downloading Soundtracks, OST, Mixes, Off-vocals, and Instrumentals...
